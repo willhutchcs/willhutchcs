@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📫 How to reach me **DM me on twitter.com/willwashere_**
-
 - ⚡ Fun fact **I also produce music and study jazz guitar**
 
 <h3 align="left">Connect with me:</h3>
