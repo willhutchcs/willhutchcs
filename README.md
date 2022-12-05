@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a Chess Clock in React Native**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native / JSX**
 
 - ⚡ Fun fact **I also produce music and study jazz guitar**
 
