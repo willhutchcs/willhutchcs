@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/willwashere_" target="blank"><img src="https://img.shields.io/twitter/follow/willwashere_?logo=twitter&style=for-the-badge" alt="willwashere_" /></a> </p>
 
-- 🔭 I’m currently working on **a Chess Clock in React Native**
+- 🔭 I’m currently working on **an Aim Trainer in GDevelop**
 
-- 🌱 I’m currently learning **React Native / JSX**
+- 🌱 I’m currently learning **GDevelop**
 
 - ⚡ Fun fact **I also produce music and study jazz guitar**
 
