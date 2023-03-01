@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/willwashere_" target="blank"><img src="https://img.shields.io/twitter/follow/willwashere_?logo=twitter&style=for-the-badge" alt="willwashere_" /></a> </p>
 
-- 🔭 I’m currently working on **an Aim Trainer in GDevelop**
+- 🔭 I’m currently working on **an FPS Zombie Game in Unity**
 
-- 🌱 I’m currently learning **GDevelop**
+- 🌱 I’m currently learning **Unity**
 
 - ⚡ Fun fact **I also produce music and study jazz guitar**
 
