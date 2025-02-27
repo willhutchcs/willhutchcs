@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Will</h1>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">Computer Engineering Undergraduate</h3>
 
 <p align="left"> <a href="https://twitter.com/willwashere_" target="blank"><img src="https://img.shields.io/twitter/follow/willwashere_?logo=twitter&style=for-the-badge" alt="willwashere_" /></a> </p>
 
-- 🔭 I’m currently working on **a Split-Screen FPS Game**
+- 🔭 I’m currently working on **a script that gets a library room for me so people stop kicking me out**
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Assembly**
 
 - ⚡ Fun fact **I also produce music and study jazz guitar**
 
